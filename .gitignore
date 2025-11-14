@@ -1,0 +1,12 @@
+# Ignorar diretórios de modelo e cache
+models/roberta-base-squad2/
+__pycache__/
+*.pyc
+.cache/
+
+# Ignorar arquivos grandes do modelo
+rag-python/models/roberta-base-squad2/*.bin
+rag-python/models/roberta-base-squad2/*.safetensors
+rag-python/models/roberta-base-squad2/*.msgpack
+rag-python/models/roberta-base-squad2/*.h5
+rag-python/models/roberta-base-squad2/*.ot
