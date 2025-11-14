@@ -1,0 +1,122 @@
+[
+  {
+    "estado": "Bahia",
+    "nome": "Acarajé",
+    "descricao": "Bolinho de feijão-fradinho frito no azeite de dendê, servido com vatapá, caruru e camarão seco.",
+    "ingredientes": ["feijão-fradinho", "cebola", "azeite de dendê", "camarão seco", "vatapá", "caruru"],
+    "categoria": "lanche",
+    "mais_vendido": {
+      "ano": 2024,
+      "quantidade": 150000,
+      "ranking": 1
+    }
+  },
+  {
+    "estado": "Ceará",
+    "nome": "Baião de Dois",
+    "descricao": "Prato que combina arroz e feijão cozidos juntos, geralmente com queijo coalho e carne seca.",
+    "ingredientes": ["arroz", "feijão-verde ou de corda", "queijo coalho", "carne seca", "coentro", "manteiga de garrafa"],
+    "categoria": "principal",
+    "mais_vendido": {
+      "ano": 2023,
+      "quantidade": 98000,
+      "ranking": 2
+    }
+  },
+  {
+    "estado": "Pernambuco",
+    "nome": "Bolo de Rolo",
+    "descricao": "Doce de massa fina com recheio de goiabada, enrolado em camadas e polvilhado com açúcar.",
+    "ingredientes": ["farinha de trigo", "manteiga", "ovos", "goiabada", "açúcar"],
+    "categoria": "sobremesa",
+    "mais_vendido": {
+      "ano": 2024,
+      "quantidade": 85000,
+      "ranking": 4
+    }
+  },
+  {
+    "estado": "Alagoas",
+    "nome": "Sururu de Capote",
+    "descricao": "Ensopado do molusco sururu, preparado com leite de coco, azeite de dendê e temperos.",
+    "ingredientes": ["sururu", "leite de coco", "azeite de dendê", "tomate", "cebola", "coentro"],
+    "categoria": "principal",
+    "mais_vendido": {
+      "ano": 2022,
+      "quantidade": 60000,
+      "ranking": 8
+    }
+  },
+  {
+    "estado": "Sergipe",
+    "nome": "Carne de Sol com Macaxeira",
+    "descricao": "Carne de sol salgada e curada, geralmente grelhada ou frita, servida com macaxeira (aipim/mandioca) cozida ou frita.",
+    "ingredientes": ["carne de sol", "macaxeira", "manteiga de garrafa", "cebola"],
+    "categoria": "principal",
+    "mais_vendido": {
+      "ano": 2023,
+      "quantidade": 75000,
+      "ranking": 5
+    }
+  },
+  {
+    "estado": "Maranhão",
+    "nome": "Cuxá",
+    "descricao": "Molho feito com vinagreira (erva azeda), camarão seco, gergelim e azeite de babaçu, tradicionalmente servido com arroz.",
+    "ingredientes": ["vinagreira", "camarão seco", "gergelim", "azeite de babaçu", "pimenta de cheiro"],
+    "categoria": "acompanhamento",
+    "mais_vendido": {
+      "ano": 2024,
+      "quantidade": 45000,
+      "ranking": 10
+    }
+  },
+  {
+    "estado": "Rio Grande do Norte",
+    "nome": "Ginga com Tapioca",
+    "descricao": "Ginga (peixe pequeno, como sardinha) frita e servida dentro de uma tapioca salgada.",
+    "ingredientes": ["goma de tapioca", "ginga", "sal", "óleo"],
+    "categoria": "lanche",
+    "mais_vendido": {
+      "ano": 2024,
+      "quantidade": 70000,
+      "ranking": 6
+    }
+  },
+  {
+    "estado": "Paraíba",
+    "nome": "Rubacão",
+    "descricao": "Variação do baião de dois com feijão-verde, arroz e muito queijo coalho e creme de leite ou leite de coco, formando um prato cremoso.",
+    "ingredientes": ["feijão-verde", "arroz", "queijo coalho", "leite de coco ou creme de leite", "bacon"],
+    "categoria": "principal",
+    "mais_vendido": {
+      "ano": 2023,
+      "quantidade": 65000,
+      "ranking": 7
+    }
+  },
+  {
+    "estado": "Piauí",
+    "nome": "Panelada Piauiense",
+    "descricao": "Guizado de vísceras (bucho, tripas, mocotó) de boi, com temperos fortes.",
+    "ingredientes": ["bucho de boi", "tripa", "mocotó", "limão", "coentro", "pimenta"],
+    "categoria": "principal",
+    "mais_vendido": {
+      "ano": 2022,
+      "quantidade": 50000,
+      "ranking": 9
+    }
+  },
+  {
+    "estado": "Bahia",
+    "nome": "Moqueca de Camarão",
+    "descricao": "Ensopado de camarão cozido com leite de coco, azeite de dendê, pimentões e coentro.",
+    "ingredientes": ["camarão", "leite de coco", "azeite de dendê", "tomate", "pimentão", "coentro"],
+    "categoria": "principal",
+    "mais_vendido": {
+      "ano": 2024,
+      "quantidade": 110000,
+      "ranking": 3
+    }
+  }
+]
