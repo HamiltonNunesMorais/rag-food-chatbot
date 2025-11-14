@@ -1,7 +1,7 @@
 from huggingface_hub import snapshot_download
 
 # Caminho local onde o modelo será salvo
-local_path = "C:\<user_folder>\\rag-food-chatbot\\rag-python\\models"
+local_path = "C:Users\\<user_folder>\\Downloads\\rag-food-chatbot\\rag-python\\models"
 
 
 # Baixar o modelo completo
