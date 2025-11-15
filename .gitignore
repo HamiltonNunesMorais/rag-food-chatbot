@@ -1,15 +1,46 @@
-# Ignorar diretórios de modelo e cache
-models/
+# 🐍 Python
 __pycache__/
 *.pyc
-.cache/
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.env
+*.DS_Store
 
-# Ignorar arquivos grandes do modelo (em qualquer subpasta)
+# Pasta de ambiente virtual
+venv/
+env/
+
+# Cache de modelos e dados
+models/
+.cache/
 *.bin
 *.safetensors
 *.msgpack
 *.h5
 *.ot
 
-# Ignorar pasta de ambiente virtual
-venv/
+# 📦 Node / React
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos do React
+front-react/node_modules/
+front-react/build/
+
+# ⚙️ Configuração do sistema
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 📄 Outros
+*.bak
+*.tmp
+*.orig
