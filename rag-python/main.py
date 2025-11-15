@@ -1,8 +1,18 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from transformers import pipeline
 from rag_pipeline import buscar_contexto
 
 app = FastAPI()
+
+# Habilitar CORS para permitir acesso do frontend React
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # ou ["*"] para liberar geral
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Carregar modelo QA
 qa = pipeline("question-answering", model="models/roberta-base-squad2")
