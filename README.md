@@ -15,7 +15,7 @@ Os arquivos grandes (pesados) não estão no repositório e devem ser baixados m
 
 ## 🎥 Demonstração
 
-> *( GIF mostrando o app funcionando)*
+
 ![alt text](<Video Project 1.gif>)  
 > Exemplo: pergunta "Qual é o prato típico da Bahia?" → resposta "Acarajé"
 
