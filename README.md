@@ -54,8 +54,9 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 A API estará disponível em: http://localhost:8000
+![alt text](image.png)
 
-### 💻 Frontend Raect
+### 💻 Frontend React
 
 1. Vá para a pasta do frontend:
 ```bash
