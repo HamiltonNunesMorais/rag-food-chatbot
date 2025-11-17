@@ -25,7 +25,7 @@ index = faiss.IndexFlatL2(dimension)
 embs = embedder.encode(docs)
 index.add(embs)
 
-def buscar_contexto(query, k=3, threshold=1.0):  # mais permissivo
+def buscar_contexto(query, k=3, threshold=1.0): 
     q_emb = embedder.encode([query])
     D, I = index.search(q_emb, k)
 
