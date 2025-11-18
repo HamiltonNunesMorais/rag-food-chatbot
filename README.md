@@ -13,7 +13,7 @@ Os arquivos grandes (pesados) não estão no repositório e devem ser baixados m
 
 ---
 
-## 🎥 Demonstração
+## Demonstração
 
 
 ![alt text](<Video Project 1.gif>)  
@@ -21,9 +21,9 @@ Os arquivos grandes (pesados) não estão no repositório e devem ser baixados m
 
 ---
 
-## 🚀 Como iniciar o projeto
+## Como iniciar o projeto
 
-### 🔧 Backend (FastAPI + Transformers)
+### Backend (FastAPI + Transformers)
 
 1. Baixe os arquivos do modelo Roberta-base-SQuAD2:
 
@@ -56,7 +56,7 @@ uvicorn main:app --reload
 A API estará disponível em: http://localhost:8000
 ![alt text](image.png)
 
-### 💻 Frontend React
+### Frontend React
 
 1. Vá para a pasta do frontend:
 ```bash
