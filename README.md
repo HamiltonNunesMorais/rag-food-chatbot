@@ -9,7 +9,7 @@ Este projeto é um chatbot inteligente que responde perguntas sobre **comida reg
 
 Este projeto inclui os arquivos menores do modelo `roberta-base-squad2` para facilitar a inicialização local.
 
-Os arquivos grandes (pesados) não estão no repositório e devem ser baixados manualmente ou como seguinte script : **download_model.py** localizado na raiz do diretorio **RAG-PYTHON**:
+Os arquivos grandes (pesados) não estão no repositório e devem ser baixados manualmente ou como seguinte script: **download_model.py** localizado na raiz do diretorio **RAG-PYTHON**:
 
 ---
 
@@ -69,6 +69,7 @@ npm start
 ```
 
 A interface estará disponível em: http://localhost:3000
+<img width="1233" height="487" alt="image" src="https://github.com/user-attachments/assets/3127f883-f684-401c-b207-5379b8dcabf3" />
 
 
 ### Estrutura do Projeto
